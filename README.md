@@ -4,5 +4,14 @@ Logística TDS Transportes
 Escopo do projeto
 ---
 
-*Cadastro de veículos
-
+#Cadastros
+* Transportadora
+* Veículos
+* Pneu
+* Motoristas
+* Equipamentos
+* Gaiolas (caixas)
+* Contas a pagar
+* Receitas
+* Horários
+* Serviços
