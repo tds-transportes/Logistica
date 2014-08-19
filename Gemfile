@@ -20,6 +20,7 @@ gem 'bitters',                '0.10.0'
 gem 'refills',                '0.0.2'
 gem 'brazilian-rails'
 gem 'rails_admin'
+gem 'validates_cpf_cnpj'
 
 group :production, :staging do
   gem 'rails_12factor',       '0.0.2'
